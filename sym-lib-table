@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MCP6022T-I{slash}ST")(type "KiCad")(uri "${KIPRJMOD}/ul_MCP6022T-I-ST/KiCAD/2022-09-13_03-03-52/MCP6022T-I{slash}ST.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP1702T-3302E{slash}CB")(type "KiCad")(uri "${KIPRJMOD}/ul_MCP1702T-3302E-CB/KiCAD/2022-09-13_03-56-17/MCP1702T-3302E{slash}CB.kicad_sym")(options "")(descr ""))
+  (lib (name "48037-0001")(type "KiCad")(uri "${KIPRJMOD}/48037-0001/48037-0001.kicad_sym")(options "")(descr ""))
+)

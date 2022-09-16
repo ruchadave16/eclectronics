@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "48037-0001")(type "KiCad")(uri "${KIPRJMOD}/48037-0001/footprints.pretty")(options "")(descr ""))
+  (lib (name "MCP1702T-3302E{slash}CB")(type "KiCad")(uri "${KIPRJMOD}/ul_MCP1702T-3302E-CB/KiCAD/2022-09-13_03-56-17/footprints.pretty")(options "")(descr ""))
+  (lib (name "MCP6022T-I{slash}ST")(type "KiCad")(uri "${KIPRJMOD}/ul_MCP6022T-I-ST/KiCAD/2022-09-13_03-03-52/footprints.pretty")(options "")(descr ""))
+)
